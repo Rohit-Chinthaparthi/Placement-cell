@@ -11,12 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/Manjeetk1248/PlacementCell.git"
   },
-  "author": "Manjeet Kumar",
+  "author": "Rohit Chinthaparthi",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Manjeetk1248/PlacementCell/issues"
-  },
-  "homepage": "https://github.com/Manjeetk1248/PlacementCell#readme",
+  "homepage": "https://placement-cell-dwc2.onrender.com",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.6.0",
